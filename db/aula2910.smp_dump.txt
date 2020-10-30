@@ -1,0 +1,9 @@
+
+State Machine - |aula2910|aula2910_qsys:x1|aula2910_qsys_nios2_qsys_avsb:nios2_qsys_avsb|aula2910_qsys_nios2_qsys_avsb_nios2_oci:the_aula2910_qsys_nios2_qsys_avsb_nios2_oci|aula2910_qsys_nios2_qsys_avsb_jtag_debug_module_wrapper:the_aula2910_qsys_nios2_qsys_avsb_jtag_debug_module_wrapper|aula2910_qsys_nios2_qsys_avsb_jtag_debug_module_tck:the_aula2910_qsys_nios2_qsys_avsb_jtag_debug_module_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 
